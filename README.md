@@ -16,6 +16,6 @@ This app also links you to my LinkedIn, GitHub, and Resume. You can view the liv
 
 ## What's Next?
 
-I plan on continuing to add to this app! My future plans are to add an About Page that goes more into who I am outside of coding, what I enjoy, etc.
+I plan on continuing to add to this app! Anything fun or quirky I feel like would show off my skills or personality will be added as I go.
 
 Thank you for taking a moment to check out this repo! You can always message me on LinkedIn or email me if you would like to learn more, or have a proposition to work together!
