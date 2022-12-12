@@ -1,7 +1,9 @@
+import LandingPage from "./pages/LandingPage";
+
 function App() {
   return (
-    <div className="flex justify-center text-3xl font-bold underline">
-      Poochcakes!
+    <div>
+      <LandingPage />
     </div>
   );
 }
