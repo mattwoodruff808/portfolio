@@ -3,6 +3,13 @@ import githubSvg from '../../assets/github.svg';
 import ResumeBtn from '../ResumeBtn/ResumeBtn';
 
 const Header = () => {
+  const scroll = () => {
+    window.scrollTo({
+      top: 800,
+      behavior: 'smooth',
+    })
+  };
+
   return (
     <section className="bg-gray-50 flex flex-col justify-evenly items-center h-screen pb-28">
       <div className="mx-auto max-w-7xl py-16 px-4 sm:py-24 sm:px-6 lg:px-8">
@@ -29,7 +36,7 @@ const Header = () => {
           </nav>
         </div>
       </div>
-      <span className="inline-block animate-bounce p-4 text-gray-900">
+      <span className="inline-block animate-bounce p-4 text-gray-900 cursor-pointer" onClick={scroll}>
         <svg className="w-8 h-8 mx-auto" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 13l-7 7-7-7m14-8l-7 7-7-7" />
         </svg>
