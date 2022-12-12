@@ -3,8 +3,8 @@ import Stats from "../Components/LandingPage/Stats";
 import Skills from "../Components/LandingPage/Skills";
 import Projects from "../Components/LandingPage/Projects";
 import Testimonial from "../Components/LandingPage/Testimonial";
-import CTA from "../Components/LandingPage/CTA";
-import Footer from "../Components/LandingPage/Footer";
+import CTA from "../Components/Footer/CTA";
+import Footer from "../Components/Footer/Footer";
 
 const LandingPage = () => {
   return (
