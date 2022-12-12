@@ -31,7 +31,7 @@ const Testimonial = () => {
           <img className="h-20 w-20" src="https://assets.mx.com/images/home2022/mx-logo.svg" alt="mx logo" />
           <blockquote className="mt-10">
             <div className="mx-auto max-w-3xl text-center text-2xl font-medium leading-9 text-gray-900">
-              <div>
+              <div className="text-lg md:text-2xl">
                 <p>
                 &ldquo;This is Matt's first engineering role. It's unfair to all other entry level engineers how quickly Matt has delivered value to the company. . .
                 </p>
