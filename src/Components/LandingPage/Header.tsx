@@ -5,7 +5,7 @@ import ResumeBtn from '../ResumeBtn/ResumeBtn';
 const Header = () => {
   const scroll = () => {
     window.scrollTo({
-      top: 800,
+      top: 600,
       behavior: 'smooth',
     })
   };
