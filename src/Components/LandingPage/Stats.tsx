@@ -13,7 +13,7 @@ const Stats = () => {
             Matt at a Glance
           </h2>
           <p className="mt-3 text-xl text-gray-500 sm:mt-4">
-            "Culturally, a home run hit" -Recruiter, describing Matt's fit within any company
+            "Culturally, a home run hit" - Technical Recruiter, describing Matt's fit within any company
           </p>
         </div>
       </div>
