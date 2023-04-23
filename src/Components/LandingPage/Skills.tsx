@@ -5,7 +5,7 @@ const skills = [
   },
   {
     title: 'Libraries and Frameworks',
-    skillList: ['React', 'NextJS', 'NodeJS', 'Express'],
+    skillList: ['React', 'React Native', 'NextJS', 'NodeJS', 'Express'],
   },
   {
     title: 'Styling',
@@ -17,7 +17,7 @@ const skills = [
   },
   {
     title: 'Other',
-    skillList: ['Puppeteer', 'PostgreSQL', 'Redux', 'Massive', 'REST'],
+    skillList: ['tRPC', 'Prisma', 'Puppeteer', 'PostgreSQL', 'Redux', 'Massive', 'REST'],
   }
 ];
 
