@@ -17,7 +17,7 @@ const skills = [
   },
   {
     title: 'Other',
-    skillList: ['tRPC', 'Prisma', 'PostgreSQL', 'Puppeteer', 'Redux', 'REST'],
+    skillList: ['Solana-Web3.js', 'tRPC', 'Prisma', 'PostgreSQL', 'Puppeteer', 'Redux', 'REST'],
   }
 ];
 
